@@ -1,4 +1,4 @@
-- You're entering @mateocoding space \
+ You're entering @mateocoding space \
  Im interested in obtaining, procesing and analysis of biodata 🌱 \
  I have experience coding in unix systems and in R for metagenomic, chemical and ecological data ⚡ \
  \
